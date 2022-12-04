@@ -8,7 +8,8 @@
 
 ## 2.需要用到的元器件原理图
 
-1. 51最小系统![image-20221204150538298](C:\Users\28049\AppData\Roaming\Typora\typora-user-images\image-20221204150538298.png)
+1. 51最小系统![image](https://user-images.githubusercontent.com/91321570/205480134-0e55d44d-51e5-4f9e-bb3a-0169b88cac04.png)
+
 
 2. st188
 
